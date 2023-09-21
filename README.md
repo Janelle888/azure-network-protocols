@@ -31,7 +31,20 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Set up</h2>
 
-Line
+
+  
+</p>
+<br />
+
+Create a resource group in azure.
+
+<p>
+Image
+  
+</p>
+<p>
+
+Create a virtual machine in azure running Windows 10, make sure that this virtual machine is placed in your resource group. Make sure that your vm is also in the same region as your resource group.
   
 </p>
 <br />
@@ -41,17 +54,8 @@ Image
   
 </p>
 <p>
-Line
-  
-</p>
-<br />
 
-<p>
-Image
-  
-</p>
-<p>
-Line
+Create a virtual machine in azure running Linux (Ubuntu), make sure that this virtual machine is placed in your resource group. Make sure that your vm is also in the same region as your resource group.
   
 </p>
 <br />
