@@ -79,7 +79,7 @@ Image
   
 </p>
 <p>
-Line
+Log into each virtual machine by going to the remote desktop app on your computer and enter the information for your VM.
   
 </p>
 <br />
@@ -89,7 +89,7 @@ Image
   
 </p>
 <p>
-Line
+In your windows 10 vm download WIRE SHARK.
   
 </p>
 <br />
