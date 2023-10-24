@@ -89,7 +89,68 @@ Image
   
 </p>
 <p>
-In your windows 10 vm download WIRE SHARK.
+  
+In your windows 10 vm download [WIRE SHARK](https://www.wireshark.org/download.html).
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+ Install Wire Shark onto the vm. You can skip through all of the options, we will install Wire Shark by the default settings.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Go to the start menu and open Wire Shark on the vm. Click the Ethernet adapter and the blue icon in the left corner of the window so that we can capture packets.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Filter for icmp traffic. 
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Open powershell on vm1 and ping vm2's ptivate ip address.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Line
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Line
   
 </p>
 <br />
