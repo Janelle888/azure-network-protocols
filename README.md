@@ -130,7 +130,79 @@ Image
   
 </p>
 <p>
-Open powershell on vm1 and ping vm2's ptivate ip address.
+Open powershell on vm1 and ping vm2's private ip address.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Observe ping and reply sequence.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+  
+Ping a website like www.google.com and observe the ping and reply sequence.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+  
+Send out a continuous ping ( -t) from vm1 to vm2.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Go back to the portal, go to vm2s network security group. Inside of the security group we are going to go to inbound rules and create a rule that denies icmp traffic.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Observe reaction.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Go to the portal and allow icmp traffic again.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+In Wire Shark filter for ssh traffic. Use ssh to log in to vm2 using vm1.
   
 </p>
 <br />
