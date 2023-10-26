@@ -212,6 +212,96 @@ Image
   
 </p>
 <p>
+In powershell type ssh, use your username and password for vm2 to log in. you can check that you have logged in correctly by typing "id" into powershell.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Filter for dhcp traffic.
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+In powershell type in "ipconfig /renew. Observe the dhcp traffic. 
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Filter for dns traffic. 
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+In powershell type "nslookup" along with a website for example www.google.com. Press enter and observe the traffic. 
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Filter for rdp traffic. 
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Line
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Line
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
+Line
+  
+</p>
+<br />
+
+<p>
+Image
+  
+</p>
+<p>
 Line
   
 </p>
