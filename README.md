@@ -262,7 +262,7 @@ Image
   
 </p>
 <p>
-Filter for rdp traffic. 
+Filter for rdp traffic and observe the activity.
   
 </p>
 <br />
@@ -272,7 +272,7 @@ Image
   
 </p>
 <p>
-Line
+Make sure to clean up your resources. 
   
 </p>
 <br />
@@ -282,77 +282,10 @@ Image
   
 </p>
 <p>
-Line
+Congratulations you are done.🎉
   
 </p>
 <br />
 
 <p>
 Image
-  
-</p>
-<p>
-Line
-  
-</p>
-<br />
-
-<p>
-Image
-  
-</p>
-<p>
-Line
-  
-</p>
-<br />
-
-<p>
-Image
-  
-</p>
-<p>
-Line
-  
-</p>
-<br />
-
-<p>
-Image
-  
-</p>
-<p>
-Line
-  
-</p>
-<br />
-
-<p>
-Image
-  
-</p>
-<p>
-Line
-  
-</p>
-<br />
-
-<p>
-Image
-  
-</p>
-<p>
-Line
-  
-</p>
-<br />
-
-<p>
-Image
-  
-</p>
-<p>
-Line
-  
-</p>
-<br />
