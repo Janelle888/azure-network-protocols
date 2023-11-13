@@ -279,9 +279,3 @@ Image
 </p>
 <p>
 Congratulations you are done.🎉
-  
-</p>
-<br />
-
-<p>
-Image
