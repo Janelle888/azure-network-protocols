@@ -35,7 +35,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 Create a resource group in azure.
 
 <p>
-Image
+
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/d6bd5aaf-ab65-4711-bf18-5dfed02cf5f0)
+
   
 </p>
 <p>
@@ -46,7 +48,9 @@ Create a virtual machine in azure running Windows 10, make sure that this virtua
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/def07035-9af8-4e25-a575-3e669aaaa20e)
+
   
 </p>
 <p>
@@ -57,31 +61,24 @@ Create a virtual machine in azure running Linux (Ubuntu), make sure that this vi
 <br />
 
 <p>
-Image
   
-</p>
-<p>
-Line
-  
-</p>
-<br />
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/847936a2-2e2a-48e9-b428-5463f42d1922)
 
 
 
 <h2>Actions and Observations</h2>
 
 <p>
-Image
-  
-</p>
-<p>
+
 Log into each virtual machine by going to the remote desktop app on your computer and enter the information for your VM.
   
 </p>
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/c976c653-05b4-4b86-b8fe-a270208e0534)
+
   
 </p>
 <p>
@@ -92,7 +89,9 @@ In your windows 10 vm download [WIRE SHARK](https://www.wireshark.org/download.h
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/33e6c7a0-2bd5-431b-bc62-8b7b2b3942dc)
+
   
 </p>
 <p>
