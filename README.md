@@ -101,7 +101,9 @@ In your windows 10 vm download [WIRE SHARK](https://www.wireshark.org/download.h
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/5b80c7ea-110c-4327-9262-add4d22eefd7)
+
   
 </p>
 <p>
@@ -111,7 +113,9 @@ Go to the start menu and open Wire Shark on the vm. Click the Ethernet adapter a
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/23e9001b-1a17-41ad-a1d3-7522261c5897)
+
   
 </p>
 <p>
@@ -121,7 +125,9 @@ Filter for icmp traffic.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/f45b0a3d-3a22-4a29-89e2-af9f8625e1a9)
+
   
 </p>
 <p>
@@ -131,7 +137,9 @@ Open powershell on vm1 and ping vm2's private ip address.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/f9e7dab8-28d8-4a45-a65f-11776fab7b74)
+
   
 </p>
 <p>
@@ -141,7 +149,9 @@ Observe ping and reply sequence.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/f4957aec-63b2-4a00-b53d-4da0ea3660b8)
+
   
 </p>
 <p>
@@ -152,7 +162,9 @@ Ping a website like www.google.com and observe the ping and reply sequence.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/68a34565-9c42-4c71-99a9-1ee9e32fe997)
+
   
 </p>
 <p>
@@ -163,7 +175,9 @@ Send out a continuous ping ( -t) from vm1 to vm2.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/39d10eba-83d6-4a85-affe-32dd823aefc3)
+
   
 </p>
 <p>
