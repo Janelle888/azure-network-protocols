@@ -187,7 +187,9 @@ Go back to the portal, go to vm2s network security group. Inside of the security
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/d4c586c9-802e-42c7-aec3-ff364381865d)
+
   
 </p>
 <p>
@@ -197,7 +199,9 @@ Observe reaction.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/dc9699c4-c71b-45c2-b07b-3f710d593a14)
+
   
 </p>
 <p>
@@ -207,7 +211,9 @@ Go to the portal and allow icmp traffic again.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/4bee24e0-ed1a-4854-b618-5624415afdeb)
+
   
 </p>
 <p>
@@ -217,7 +223,9 @@ In Wire Shark filter for ssh traffic. Use ssh to log in to vm2 using vm1.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/568b1026-4da8-43fc-8fb4-3c7a13729363)
+
   
 </p>
 <p>
@@ -227,7 +235,9 @@ In powershell type ssh, use your username and password for vm2 to log in. you ca
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/37bb3966-f48c-4382-aacf-4daa41e3e4a7)
+
   
 </p>
 <p>
@@ -237,7 +247,9 @@ Filter for dhcp traffic.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/6c150e00-304a-442a-a22c-1d299778e4e8)
+
   
 </p>
 <p>
@@ -247,7 +259,9 @@ In powershell type in "ipconfig /renew. Observe the dhcp traffic.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/6799e2af-0215-4fe9-a27a-ea4f32f2e337)
+
   
 </p>
 <p>
@@ -257,7 +271,9 @@ Filter for dns traffic.
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/5832c9b8-dde7-47b5-911f-94eb99bcf5b0)
+
   
 </p>
 <p>
@@ -267,27 +283,16 @@ In powershell type "nslookup" along with a website for example www.google.com. P
 <br />
 
 <p>
-Image
+  
+![image](https://github.com/Janelle888/azure-network-protocols/assets/142438143/05d00d2f-75a3-4d60-a17d-2a822fe6eeee)
+
   
 </p>
 <p>
-Filter for rdp traffic and observe the activity.
+Make sure to clean up your resources.
   
 </p>
 <br />
-
-<p>
-Image
-  
-</p>
-<p>
-Make sure to clean up your resources. 
-  
-</p>
-<br />
-
-<p>
-Image
   
 </p>
 <p>
