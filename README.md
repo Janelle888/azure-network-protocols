@@ -289,8 +289,9 @@ In powershell type "nslookup" along with a website for example www.google.com. P
   
 </p>
 <p>
-Make sure to clean up your resources.
-  
+Make sure to clean up your resources. 🗑️
+
+
 </p>
 <br />
   
